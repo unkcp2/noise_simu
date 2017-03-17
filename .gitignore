@@ -1,2 +1,4 @@
 *.emf
 *.doc
+.DS_Store
+*.bin
